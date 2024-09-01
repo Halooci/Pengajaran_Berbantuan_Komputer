@@ -5,13 +5,13 @@ MDN Web Docs adalah perpustakaan online yang cukup lengkap bagi untuk seorang we
 
 #### MDN Web Docs as Tutor
 MDN Web Docs bisa berfungsi sebagai **tutor/pengajar** dalam memberikan penjelasan yang mendalam tentang konsep-konsep web development. MDN Web Docs menyajikan beberapa materi seperti berikut :
-![Materi](/pictures/Lesson_MDN.png)
+![Materi](Lesson_MDN.png)
 disini pengguna dapat mencoba kodenya langsung pada website dan MDN Web Docs.
 
 
 #### MDN Web Docs as Tool
 MDN Web Docs bisa berfungsi sebagai **alat** yaitu ada kode editor nya langsung, jadi selama pengguna bisa mempelajari kode pemrograman yang ada tanpa perlu membuka kode editor lain lagi untuk mencoba menjalankan programnya, kode program juga bisa langsung dijalankan (run) di website tersebut.
-![Tool](/pictures/Tool_MDN.png)
+![Tool](Tool_MDN.png)
 
 #### MDN Web Docs as Tutee
 MDN Web Docs bisa berfungsi sebagai **murid**, dimana MDN Web Docs mengajak pengembang untuk belajar sambil mencoba contoh kode dan membangun proyek kecil sendiri. Jadi pengembang secara bertahap menguasai konsep-konsep web yang kompleks, menjelajahi dan bereksperimen dengan berbagai contoh kode dan tutorial di MDN, pengembang berperan aktif dalam memperdalam pemahaman mereka tentang teknologi web.
